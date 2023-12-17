@@ -1,2 +1,2 @@
 # Hands-On
-##This repository contain a notebooks where i have played around with python on basic concepts of Machine Learning, data pre-processing and data manipulation.
+This repository contains notebooks where I have played around with Python on basic concepts of Machine Learning, data pre-processing, and data manipulation.
